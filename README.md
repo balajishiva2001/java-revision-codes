@@ -13,13 +13,13 @@ A collection of Java code snippets and programs for quick reference and revision
 ## 📌 Usage
 
 Clone the repository to your local machine:
-
+```bash
 git clone https://github.com/balajishiva2001/java-revision-codes.git
-
+```
 Navigate to the directory:
-
+```bash
 cd java-revision-codes
-
+```
 Explore the code snippets and examples in the respective folders.
 
 ---
